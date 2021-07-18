@@ -1,0 +1,1 @@
+web: gunicorn app:face_recognition_swastik
