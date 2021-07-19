@@ -1,1 +1,1 @@
-web: gunicorn app:face_recognition_swastik
+web: gunicorn app:app
